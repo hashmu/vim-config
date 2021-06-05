@@ -4,7 +4,9 @@
 :set autoindent
 :set smartindent
 :color desert
+" remove those god-awful bell sounds
 :set visualbell
+" remove the seizure inducing flashing that replaces the bell sounds by default
 :set t_vb=
 
 " add html syntax to dotnet razor files
